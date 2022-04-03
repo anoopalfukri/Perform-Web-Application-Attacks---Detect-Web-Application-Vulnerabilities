@@ -1,0 +1,2 @@
+# Perform-Web-Application-Attacks---Detect-Web-Application-Vulnerabilities
+ Project "Perform Web Application Attack &amp; Detect Web Application  Vulnerabilities" is the lab is to perform web application hacking in other words web  application Penetration testing. And Detecting web application vulnerabilities &amp; Check if a  web application is being attacked and how secure that web application is That is the goal of  this project
